@@ -3,7 +3,7 @@ title = "Hinter den Kulissen - Die unsichtbaren Helden des Naturhistorischen Mus
 date = "2023-10-30"
 draft = false
 pinned = true
-image = "https://repository-images.githubusercontent.com/347290041/a27b1400-9c94-11eb-96cf-d442ac64dc87"
+image = "https://lh3.googleusercontent.com/p/AF1QipPruXKpQgmJyn5atpR_GteKDc77DG0XUOxq3xpV=s1360-w1360-h1020"
 footnotes = ""
 +++
 

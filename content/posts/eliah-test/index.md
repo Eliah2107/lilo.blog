@@ -7,13 +7,12 @@ image = "https://lh3.googleusercontent.com/p/AF1QipPruXKpQgmJyn5atpR_GteKDc77DG0
 footnotes = ""
 +++
 
- 
 
 Wir alle waren schon einmal in einem Museum und haben Ausstellungen besucht, ohne zu wissen, wie viel Arbeit hinter so einer Ausstellung wirklich steckt. Das Naturhistorische Museum in Bern ist kein gewöhnliches Museum, denn wenn man durch die Ausstellungen läuft, kann man selbst aktiv werden. Die Informationen und Botschaften, die vermittelt werden, sind in passend gestaltete Räume integriert und überall befinden sich interaktive Posten. Wer sind denn aber nun die Helden hinter dem Ganzen?
 
 Eliah Siegwart, Naomi Pauli
 
-
+![Der Haupteingang des Naturhistorischen Museums im Museumquartier in Bern. Hinter einem Baum, leicht rechts gelegen, ist das Plakat zur Sonderausstellung «Queer – Vielfalt ist unsere Natur» versteckt, welche fast ganze zwei Jahre im Museum zu betrachten war. Sie gab Einblick in die Vielfalt der Geschlechter und sexuellen Ausrichtung bei Tieren und Menschen.](https://lh3.googleusercontent.com/p/AF1QipPruXKpQgmJyn5atpR_GteKDc77DG0XUOxq3xpV=s1360-w1360-h1020)
 
 Hinter Blättern versteck sieht man ein beiges Gebäude, es ist das berühmte Naturhistorische Museum in Bern. Im Gebäude befinden umherwirbelnde Schüler herum und im Eingangsbereich riecht es nach Essen. Die Eltern helfen den Kindern in der Garderobe direkt am Eingang, die Jacken auszuziehen. Denise Mast taucht auf, sie ist eine dieser Heldinnen, sie läuft die Betontreppe, welche man vom Eingang zentral sieht, hinunter. Sie trägt einen grauen Pullover und eine schwarze Hose, ihre braunen Haare sind nach hinten gebunden, ihre Haut ist mit Tattoos geschmückt. Ganz oben ist der Pausenraum der Mitarbeitenden. Es riecht nach Kaffee, an verschiedenen Tischen sitzen plaudernde Menschen, die vermutlich gerade Mittagspause machen. Denise Mast arbeitet hier nun schon seit ein paar Jahren, vorher hat sie alles Mögliche ausprobiert und viel Erfahrung in verschiedenen Berufen gesammelt. Im Naturhistorischen Museum arbeitet sie als Eventtechnikerin, ihre Aufgaben sind vielfältig und keinesfalls uninteressant. Man fragt sich schon fast, was sie denn eigentlich nicht macht. Auch sie leistet einen grossen Beitrag dazu, dass im Museum alles so gut funktioniert.
 
@@ -23,7 +22,9 @@ Das Museum übertrifft sich immer wieder selbst mit den Besucherzahlen. Doch wie
 
 Nicht nur der Erfolg des Naturhistorischen Museums ist bemerkenswert, sondern auch die Tatsache, dass es das älteste Museum der Stadt Bern ist. Berühmt wurde es mit den Ausstellungen, die es heute noch gibt. Sie befinden sich gleich hinter dem Eingangsbereich. Es handelt sich um die Ausstellungen der Dioramen von afrikanischen Grosswildtieren und inländischer Fauna. Die Sammlung des Museums beinhaltet etwa 6,5 Millionen Sammlungsobjekte. Eines der berühmtesten ist Barry, ein weltberühmter Rettungshund. Dieser tierischen Berühmtheit wird sogar eine eigene kleine Ausstellung gewidmet, welche es bis heute noch gibt. Natürlich machte das Museum auch in jüngerer Vergangenheit mit besonderen Ausstellungen auf sich aufmerksam. Zum Beispiel mit der Sonderausstellung „Weltuntergang - Ende ohne Ende“ oder mit der noch viel bekannteren „Queer - Vielfalt ist unsere Natur“. Mit diesen Sonderausstellungen sprach das Museum Themen an, welche brandaktuell sind. Dies macht das Museum einzigartig und ist einer der vielen Gründe, die es so beliebt machen.
 
+{{<Box>}} Entstehung des Museums 
 
+Das Naturhistorische Museum Bern wurde im Jahr 1832 gegründet. Dies geschah auf Beschluss des Stadtrates. Somit gilt es als ältestes Museum von Bern. Die eigentlichen Anfänge führen aber aufs Ende des 17. Jahrhunderts zurück. Zu dieser Zeit gab es in der Stadtbibliothek ein Naturalienkabinett, in welchem unter anderem Mineralien, Gesteine und sehr vieles mehr ausgestellt waren. Jahre später folgte dann der Beschluss, eine von der Bibliothekskommission unabhängige Museumskommission zu etablieren. Somit war das Naturhistorische Museum in Bern geboren. {{</Box>}}
 
 ### 2. Sonderausstellungen
 
@@ -33,17 +34,13 @@ jeweils nur für eine bestimmte Zeit, welche in der Dauer variieren kann. Die de
 
  *„Mir ist viel wichtiger, dass es im Team gut funktioniert hat und das Team erwähnt wird, aber nicht explizit meine Person.“* (Denise Mast).
 
- 
+
 
 ### 3. Blick in die Zukunft
 
 Zukünftig wird sich das Museum wohl verändern, hinter den Kulissen, wie auch im Vordergrund. Mit der immer wichtiger werdenden Thematik der Nachhaltigkeit wird zukünftig nicht mehr alles möglich sein. Das Naturhistorische Museum in Bern achtet bereits jetzt darauf, möglichst umweltbewusst zu handeln. Die bereits genutzten Materialien werden oft wiederverwendet und manchmal kann fehlendes Material auch in einer Brockenstube gefunden werden. Trotz vielen Massnahmen für die Nachhaltigkeit gibt es in bestimmten Bereichen noch Potential. Ansonsten wird sich das Personal sicherlich verändern, da viele demnächst pensioniert werden. Dies bedeutet jedoch auch, dass neue Personen hinzustossen werden, was nicht zwangsläufig negativ ist. *„Es werden in nächster Zeit relativ viele Leute pensioniert, heisst, es werden viele neue dazu kommen, neue Leute bringen neue Inputs.“* (Denise Mast). Durch Corona sind viele Änderungen von allein gekommen. So wäre es davor kaum denkbar gewesen, dass Teamsitzungen über Zoom gehalten werden. Diese dazumal zwangsläufigen Änderungen bleiben teils noch heute bestehend. Die Sonderausstellungen werden sich sowieso immer wieder ändern, denn sie sind genau dafür da, dass es immer wieder möglich ist, aktuelle Themen aufzugreifen und es den Menschen in einer spannenden Weise näher zu bringen.
 
- 
-
 *„Es werden in nächster Zeit relativ viele Leute pensioniert, heisst, es werden viele neue dazu kommen, neue Leute bringen neue Inputs.“* (Denise Mast).
-
- 
 
 ### 4. Die unsichtbaren Helden
 

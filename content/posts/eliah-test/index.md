@@ -32,7 +32,7 @@ Sie stellt das Thema aber keinesfalls in einer einfachen Weise dar, ganz im Gege
 
 >  `"`*Mir ist viel wichtiger, dass es im Team gut funktioniert hat und das Team erwähnt wird, aber nicht explizit meine Person."* 
 >
-> *\-Denise Mast*
+> *Denise Mast*
 
 ### 3. Blick in die Zukunft
 

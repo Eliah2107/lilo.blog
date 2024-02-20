@@ -40,7 +40,7 @@ Zukünftig wird sich das Museum wohl verändern, hinter den Kulissen, wie auch i
 
 > *"Es werden in nächster Zeit relativ viele Leute pensioniert, heisst, es werden viele neue dazu kommen, neue Leute bringen neue Inputs."* 
 >
-> \-Denise Mast
+> *Denise Mast*
 
 ### 4. Die unsichtbaren Helden
 

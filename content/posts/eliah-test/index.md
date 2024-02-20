@@ -18,9 +18,13 @@ Hinter Blättern versteck sieht man ein beiges Gebäude, es ist das berühmte Na
 
 Das Museum übertrifft sich immer wieder selbst mit den Besucherzahlen. Doch wie kann es sein, dass die Leute es immer wieder besuchen und es ihnen offensichtlich nicht langweilig wird? Das Naturhistorische Museum ist kein gewöhnliches Museum. Einige der fixen Ausstellungen werden immer wieder aufs Neue verändert, was einer der Gründe ist, wieso man sie immer wieder sehen möchte. Jedes Mal, wenn man geht, erlebt man etwas Neues, eine neue Ausstellung oder eine alte, die erneuert wurde. Das sorgt für Abwechslung und dafür, dass es nicht langweilig wird. Nicht nur der Erfolg des Naturhistorischen Museums ist bemerkenswert, sondern auch die Tatsache, dass es das älteste Museum der Stadt Bern ist. Berühmt wurde es mit den Ausstellungen, die es heute noch gibt. Sie befinden sich gleich hinter dem Eingangsbereich. Es handelt sich um die Ausstellungen der Dioramen von afrikanischen Grosswildtieren und inländischer Fauna. Die Sammlung des Museums beinhaltet etwa 6,5 Millionen Sammlungsobjekte. Eines der berühmtesten ist Barry, ein weltberühmter Rettungshund. Dieser tierischen Berühmtheit wird sogar eine eigene kleine Ausstellung gewidmet, welche es bis heute noch gibt. Natürlich machte das Museum auch in jüngerer Vergangenheit mit besonderen Ausstellungen auf sich aufmerksam. Zum Beispiel mit der Sonderausstellung „Weltuntergang - Ende ohne Ende“ oder mit der noch viel bekannteren „Queer - Vielfalt ist unsere Natur“. Mit diesen Sonderausstellungen sprach das Museum Themen an, welche brandaktuell sind. Dies macht das Museum einzigartig und ist einer der vielen Gründe, die es so beliebt machen.
 
-{{<Box>}} Entstehung des Museums 
 
-Das Naturhistorische Museum Bern wurde im Jahr 1832 gegründet. Dies geschah auf Beschluss des Stadtrates. Somit gilt es als ältestes Museum von Bern. Die eigentlichen Anfänge führen aber aufs Ende des 17. Jahrhunderts zurück. Zu dieser Zeit gab es in der Stadtbibliothek ein Naturalienkabinett, in welchem unter anderem Mineralien, Gesteine und sehr vieles mehr ausgestellt waren. Jahre später folgte dann der Beschluss, eine von der Bibliothekskommission unabhängige Museumskommission zu etablieren. Somit war das Naturhistorische Museum in Bern geboren. {{</Box>}}
+
+{{<box>}} Entstehung des Museums 
+
+Das Naturhistorische Museum Bern wurde im Jahr 1832 gegründet. Dies geschah auf Beschluss des Stadtrates. Somit gilt es als ältestes Museum von Bern. Die eigentlichen Anfänge führen aber aufs Ende des 17. Jahrhunderts zurück. Zu dieser Zeit gab es in der Stadtbibliothek ein Naturalienkabinett, in welchem unter anderem Mineralien, Gesteine und sehr vieles mehr ausgestellt waren. Jahre später folgte dann der Beschluss, eine von der Bibliothekskommission unabhängige Museumskommission zu etablieren. Somit war das Naturhistorische Museum in Bern geboren. 
+
+`{{</box>}}`
 
 ### 2. Sonderausstellungen
 

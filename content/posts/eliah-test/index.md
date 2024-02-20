@@ -1,6 +1,6 @@
 +++
 title = "Hinter den Kulissen - Die unsichtbaren Helden des Naturhistorischen Museums Bern"
-date = "2023-10-30"
+date = "2024-02-20"
 draft = false
 pinned = true
 image = "https://lh3.googleusercontent.com/p/AF1QipPruXKpQgmJyn5atpR_GteKDc77DG0XUOxq3xpV=s1360-w1360-h1020"

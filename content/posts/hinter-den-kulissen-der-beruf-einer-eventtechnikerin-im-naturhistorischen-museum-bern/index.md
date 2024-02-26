@@ -57,7 +57,7 @@ Es ist so, dass die Planungsphase viel länger dauert als die Umsetzung. In der 
 
 
 
-#### **Man hat das Gefühl, das man die Person hinter Ihrer Arbeit gar nicht sieht. Wünschten Sie sich manchmal, dass die Leute wüssten, wer hinter dieser Arbeit steckt?**
+#### **Man hat das Gefühl, dass man die Person hinter Ihrer Arbeit gar nicht sieht. Wünschten Sie sich manchmal, dass die Leute wüssten, wer hinter dieser Arbeit steckt?**
 
 Nein, aber so bin vielleicht einfach ich von meinem Charakter her. Mir ist viel wichtiger, dass die Zusammenarbeit im Team gut funktioniert hat. Wenn ich meinen beruflichen Werdegang anschaue, war ich immer hinter den Kulissen, weil ich die das Rampenlicht nicht brauche und auch nicht mag. Abgesehen davon ist es in meiner Rolle schon so, dass ich Wertschätzung bekomme und gesehen wird, was ich mache.
 

@@ -3,7 +3,7 @@ title = "Hinter den Kulissen - Die unsichtbaren Helden des Naturhistorischen Mus
 date = "2024-02-20"
 draft = false
 pinned = true
-image = "https://lh3.googleusercontent.com/p/AF1QipPruXKpQgmJyn5atpR_GteKDc77DG0XUOxq3xpV=s1360-w1360-h1020"
+image = ""
 description = "Wir alle waren schon einmal in einem Museum und haben Ausstellungen besucht, ohne zu wissen, wie viel Arbeit hinter so einer Ausstellung wirklich steckt. Das Naturhistorische Museum in Bern ist kein gewöhnliches Museum, denn wenn man durch die Ausstellungen läuft, kann man selbst aktiv werden. Die Informationen und Botschaften, die vermittelt werden, sind in passend gestaltete Räume integriert und überall befinden sich interaktive Posten. Wer sind denn aber nun die Helden hinter dem Ganzen?"
 footnotes = ""
 +++

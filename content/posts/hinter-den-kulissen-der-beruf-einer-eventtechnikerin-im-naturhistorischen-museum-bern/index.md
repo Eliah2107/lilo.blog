@@ -13,7 +13,7 @@ Eliah Siegwart, Naomi Pauli
 
 Eingangshalle des Naturhistorischen Museums Bern. Mehrere Kinder sind zu hören, sie warten gespannt darauf, endlich die Ausstellungen zu sehen. Wir treffen unsere Interviewpartnerin Denise Mast und werden in einen Pausenraum geführt. Hier riecht es nach Kaffee, der Raum versprüht eine gemütliche Atmosphäre. Es sind ihre Arbeitskolleg*innen, die hier gerade ihre Mittagspause verbringen. Wir werden zu einem Sofa geführt, wo wir uns setzen.
 
- 
+
 
 **Wie sind Sie dazu gekommen, als Eventtechnikerin im Naturhistorischen Museum zu arbeiten?**
 
@@ -31,8 +31,6 @@ Auch wenn Denise nun schon länger in ihrer Branche arbeitet, war das nicht imme
 
 Zu meinen Hauptaufgaben gehört die Eventtechnik bei internen, kleineren Events, bei welchen ich für alles Technische, wie Ton, Licht und Video, zuständig bin. Bei der Ausstellungstechnik bin ich für die Multimedia zuständig, d.h. bei Ausstellungen, die schon bestehen, schaue ich regelmässig, ob alle Geräte und Installationen funktionieren. Bei Bedarf bekomme ich externe Unterstützung. Der Aufbau von Ausstellungen gehört ebenfalls zu meinen Aufgaben. Zudem bin ich verantwortlich für das unser grosses Lager mit all unserem Material.
 
- 
-
 **Was schätzen Sie besonders an Ihrer Arbeit?**
 
 Die Vielfältigkeit. Meine Arbeit empfinde ich als spannend und ich schätze es sehr, dass ich so viel Neues lerne. Ich kam von der Lichttechnik und beschäftige mich jetzt mit Multimedia. Bei keiner Ausstellung, die wir realisieren, gibt es vorgefertigte Lösungen, wir müssen jeweils eigene entwickeln. Die Zusammenarbeit, die es dafür braucht, macht mir Spass. Ich habe hier im Naturhistorischen Museum sehr viel Freiheit und werde unterstützt, auch wenn ich selbst ein Projekt starten will, wie z.B. etwas zu erneuern. Wenn ich Ideen habe, kann ich diese einbringen und meistens werden sie gutgeheissen.
@@ -41,25 +39,17 @@ Die Vielfältigkeit. Meine Arbeit empfinde ich als spannend und ich schätze es 
 >
 > *Denise Mast*
 
-
-
 **Woran arbeiten Sie momentan?**
 
 Gewisse Sachen müssen an der momentanen Sonderausstellung optimiert werden, da helfe ich mit. Es gibt ausserdem eine neue, kleine Ausstellung, welche bald eröffnet wird. Der Bau läuft bereits, ich bin für das Licht zuständig. Bei Ausstellungen, welche schon länger stehen, wie z.B. „Barry“, muss ich gewisse Dinge reparieren, die nicht mehr funktionieren oder ersetzen, da es keine entsprechenden Ersatzteile mehr gibt.
-
- 
 
 **Wie sieht der Ablauf von der Entstehung einer Ausstellung bis zur Eröffnung aus?**
 
 Es ist so, dass die Planungsphase viel länger dauert als die Umsetzung. In der ersten Phase spielen die Kuratoren und die Projektleitung eine grosse Rolle. Je nach Ausstellungsprojekt arbeiten wir mit externen Szenographen zusammen, welche die Ideen und Vorstellungen des Projektteams umsetzen. Im ganzen Ablauf wird bereits relativ früh besprochen, wie etwas umgesetzt werden könnte. Der Ideenfindungsprozess dauert sehr lange, danach geht zuerst um die Kosten, bevor schlussendlich der Startschuss zum Bau fällt und wir mit unserer Arbeit beginnen können.
 
-
-
 **Man hat das Gefühl, das man die Person hinter Ihrer Arbeit gar nicht sieht. Wünschten Sie sich manchmal, dass die Leute wüssten, wer hinter dieser Arbeit steckt?**
 
 Nein, aber so bin vielleicht einfach ich von meinem Charakter her. Mir ist viel wichtiger, dass die Zusammenarbeit im Team gut funktioniert hat. Wenn ich meinen beruflichen Werdegang anschaue, war ich immer hinter den Kulissen, weil ich die das Rampenlicht nicht brauche und auch nicht mag. Abgesehen davon ist es in meiner Rolle schon so, dass ich Wertschätzung bekomme und gesehen wird, was ich mache.
-
-
 
 **Wie denken Sie, wird sich das Naturhistorische Museum in der Zukunft verändern?**
 

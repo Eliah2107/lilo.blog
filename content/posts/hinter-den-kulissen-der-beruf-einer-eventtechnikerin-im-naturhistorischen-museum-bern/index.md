@@ -3,7 +3,7 @@ title = "Hinter den Kulissen – Der Beruf einer Eventtechnikerin im Naturhistor
 date = "2024-02-26"
 draft = false
 pinned = false
-image = "whatsapp-bild-2024-02-22-um-17.01.43_f8b1341a.jpg"
+image = "whatsapp-bild-2024-02-22-um-17.01.40_6bd707e6.jpg"
 description = "Das Naturhistorische Museum in Bern ist das älteste Museum der Stadt. Es ist ein besonderes Museum, welches sich durch vielfältige und spannende Ausstellungen zu vielfältigen Themen auszeichnet Doch nur dank der vielen Menschen, die im Museum dafür sorgen, dass es existieren kann, wie es ist, vermittelt es einen so einzigartigen Charakter. Aber wer sind diese Menschen überhaupt und was sind nun wirklich ihre Aufgaben?"
 +++
 {{<lead>}} Das Naturhistorische Museum in Bern ist das älteste Museum der Stadt. Es ist ein besonderes Museum, welches sich durch vielfältige und spannende Ausstellungen zu vielfältigen Themen auszeichnet Doch nur dank der vielen Menschen, die im Museum dafür sorgen, dass es existieren kann, wie es ist, vermittelt es einen so einzigartigen Charakter. Aber wer sind diese Menschen überhaupt und was sind nun wirklich ihre Aufgaben? {{</lead>}}

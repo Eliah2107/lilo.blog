@@ -18,7 +18,7 @@ Eingangshalle des Naturhistorischen Museums Bern. Mehrere Kinder sind zu hören,
 
 Nachdem ich bereits etliche Jahre Berufserfahrung in verschiedenen Bereichen hatte, habe ich begonnen, bei grösseren Events mit der „Röck’n’Röll-Krew“ zu arbeiten. Darauf folgte eine Anstellung im Zürcher Opernhaus, gefolgt von einer Stelle in einer Firma für Veranstaltungstechnik in Bern. Dort half ich im Lager und bei verschiedenen Veranstaltungsprojekten. Später landete ich erneut in Zürich, dieses Mal im Schauspielhaus, wo ich fünfeinhalb Jahre blieb. Schlussendlich kam ich hier hin, ins Naturhistorische Museum Bern. In den Jahren davor habe ich realisiert, dass ich lieber mehr berufliche Freiheiten und Zeit hätte. Ein Kollege hat mir das Stelleninserat meiner jetzigen Stelle zukommen lassen. Es hörte sich sehr spannend an, obwohl ich keine handwerkliche Ausbildung habe, rief ich an, wurde zum Vorstellungsgespräch eingeladen und bekam die Stelle. Nun bin ich seit ungefähr vier Jahren hier.
 
-> *"In den Jahren davor habe ich realisiert, dass ich lieber mehr berufliche Freiheiten und Zeit hätte."*
+> „*In den Jahren davor habe ich realisiert, dass ich lieber mehr berufliche Freiheiten und Zeit hätte."*
 >
 > *Denise Mast*
 
@@ -34,7 +34,7 @@ Zu meinen Hauptaufgaben gehört die Eventtechnik bei internen, kleineren Events,
 
 Die Vielfältigkeit. Meine Arbeit empfinde ich als spannend und ich schätze es sehr, dass ich so viel Neues lerne. Ich kam von der Lichttechnik und beschäftige mich jetzt mit Multimedia. Bei keiner Ausstellung, die wir realisieren, gibt es vorgefertigte Lösungen, wir müssen jeweils eigene entwickeln. Die Zusammenarbeit, die es dafür braucht, macht mir Spass. Ich habe hier im Naturhistorischen Museum sehr viel Freiheit und werde unterstützt, auch wenn ich selbst ein Projekt starten will, wie z.B. etwas zu erneuern. Wenn ich Ideen habe, kann ich diese einbringen und meistens werden sie gutgeheissen.
 
-> *"Ich habe hier im Naturhistorischen Museum sehr viel Freiheit und werde unterstützt, auch wenn ich selbst ein Projekt starten will, wie z.B. etwas zu erneuern."*
+> „*Ich habe hier im Naturhistorischen Museum sehr viel Freiheit und werde unterstützt, auch wenn ich selbst ein Projekt starten will, wie z.B. etwas zu erneuern."*
 >
 > *Denise Mast*
 
@@ -54,6 +54,6 @@ Nein, aber so bin vielleicht einfach ich von meinem Charakter her. Mir ist viel 
 
 Ich denke, es wird Veränderungen geben, wenn man z.B. schaut, wie die Ausstellungen jetzt sind, im Gegensatz zu früher. Es ist alles viel interaktiver, technischer, wie auch baulich viel anspruchsvoller geworden. Ein zunehmend wichtiger Aspekt ist die Nachhaltigkeit, darauf legen wir sehr grossen Wert. Die Nachhaltigkeit bringt Veränderungen mit sich an die wir uns anpassen müssen. Wir können nicht mehr alles so machen wie früher, wir müssen neue Wege finden. Es wird sich ausserdem intern viel ändern, da wir haben viel Mitarbeitende haben, die seit 20, 30 Jahren hier sind. Es werden in nächster Zeit relativ viele Leute pensioniert, das bedeutet, dass viele neue Mitarbeitende zu uns stossen und neue Perspektiven einbringen werden.
 
-> *"Ein zunehmend wichtiger Aspekt ist die Nachhaltigkeit, darauf legen wir sehr grossen Wert."*
+> „*Ein zunehmend wichtiger Aspekt ist die Nachhaltigkeit, darauf legen wir sehr grossen Wert."*
 >
 > *Denise Mast*

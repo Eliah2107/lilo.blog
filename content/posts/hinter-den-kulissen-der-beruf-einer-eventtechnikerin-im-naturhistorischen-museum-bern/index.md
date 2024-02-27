@@ -10,11 +10,9 @@ description = "Das Naturhistorische Museum in Bern ist das älteste Museum der S
 
 Eliah Siegwart, Naomi Pauli
 
-![Denise Mast, Eventtechnikerin im Naturhistorischen Museum Bern. Bild: Eliah Siegwart](whatsapp-bild-2024-02-22-um-17.01.43_f8b1341a.jpg)
+![Denise Mast, Eventtechnikerin im Naturhistorischen Museum Bern. Bild: Eliah Siegwart](whatsapp-bild-2024-02-22-um-17.01.39_956bdbe1.jpg)
 
 Eingangshalle des Naturhistorischen Museums Bern. Mehrere Kinder sind zu hören, sie warten gespannt darauf, endlich die Ausstellungen zu sehen. Wir treffen unsere Interviewpartnerin Denise Mast und werden in einen Pausenraum geführt. Hier riecht es nach Kaffee, der Raum versprüht eine gemütliche Atmosphäre. Es sind ihre Arbeitskolleg*innen, die hier gerade ihre Mittagspause verbringen. Wir werden zu einem Sofa geführt, wo wir uns setzen.
-
-
 
 **Wie sind Sie dazu gekommen, als Eventtechnikerin im Naturhistorischen Museum zu arbeiten?**
 
@@ -28,13 +26,9 @@ Nachdem ich bereits etliche Jahre Berufserfahrung in verschiedenen Bereichen hat
 
 Auch wenn Denise nun schon länger in ihrer Branche arbeitet, war das nicht immer so. Nach der Schule wollte sie ursprünglich ans Gymnasium, allerdings hat sie dann doch eine Lehre als Kauffrau gemacht. Nach der Lehre verbrachte sie zweieinhalb Monate im Ausland; während dieser Zeit wurde ihr bewusst, dass sie etwas anderes machen will. Durch intensive Gespräche mit einer Kollegin, welche im Dachstock der Reitschule Bern arbeitete, fand sie heraus, was sie interessierte. So landete sie anschliessend bei der „Röck’n’Röll-Krew“ in Köniz. {{</box>}}
 
-
-
 **Was sind Ihre Aufgaben hier?**
 
 Zu meinen Hauptaufgaben gehört die Eventtechnik bei internen, kleineren Events, bei welchen ich für alles Technische, wie Ton, Licht und Video, zuständig bin. Bei der Ausstellungstechnik bin ich für die Multimedia zuständig, d.h. bei Ausstellungen, die schon bestehen, schaue ich regelmässig, ob alle Geräte und Installationen funktionieren. Bei Bedarf bekomme ich externe Unterstützung. Der Aufbau von Ausstellungen gehört ebenfalls zu meinen Aufgaben. Zudem bin ich verantwortlich für das unser grosses Lager mit all unserem Material.
-
-
 
 **Was schätzen Sie besonders an Ihrer Arbeit?**
 
@@ -48,19 +42,13 @@ Die Vielfältigkeit. Meine Arbeit empfinde ich als spannend und ich schätze es 
 
 Gewisse Sachen müssen an der momentanen Sonderausstellung optimiert werden, da helfe ich mit. Es gibt ausserdem eine neue, kleine Ausstellung, welche bald eröffnet wird. Der Bau läuft bereits, ich bin für das Licht zuständig. Bei Ausstellungen, welche schon länger stehen, wie z.B. „Barry“, muss ich gewisse Dinge reparieren, die nicht mehr funktionieren oder ersetzen, da es keine entsprechenden Ersatzteile mehr gibt.
 
-
-
 **Wie sieht der Ablauf von der Entstehung einer Ausstellung bis zur Eröffnung aus?**
 
 Es ist so, dass die Planungsphase viel länger dauert als die Umsetzung. In der ersten Phase spielen die Kuratoren und die Projektleitung eine grosse Rolle. Je nach Ausstellungsprojekt arbeiten wir mit externen Szenographen zusammen, welche die Ideen und Vorstellungen des Projektteams umsetzen. Im ganzen Ablauf wird bereits relativ früh besprochen, wie etwas umgesetzt werden könnte. Der Ideenfindungsprozess dauert sehr lange, danach geht zuerst um die Kosten, bevor schlussendlich der Startschuss zum Bau fällt und wir mit unserer Arbeit beginnen können.
 
-
-
 **Man hat das Gefühl, dass man die Person hinter Ihrer Arbeit gar nicht sieht. Wünschten Sie sich manchmal, dass die Leute wüssten, wer hinter dieser Arbeit steckt?**
 
 Nein, aber so bin vielleicht einfach ich von meinem Charakter her. Mir ist viel wichtiger, dass die Zusammenarbeit im Team gut funktioniert hat. Wenn ich meinen beruflichen Werdegang anschaue, war ich immer hinter den Kulissen, weil ich die das Rampenlicht nicht brauche und auch nicht mag. Abgesehen davon ist es in meiner Rolle schon so, dass ich Wertschätzung bekomme und gesehen wird, was ich mache.
-
-
 
 **Wie denken Sie, wird sich das Naturhistorische Museum in der Zukunft verändern?**
 

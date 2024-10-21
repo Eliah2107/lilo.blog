@@ -3,6 +3,7 @@ title = "Emanzipation der Frauen "
 date = "2024-10-21"
 draft = false
 pinned = false
+image = "https://images.thalia.media/-/BF2000-2000/6cd3a7ea43144251af1769bfbec6f6b4/helvetias-toechter-epub-nadine-a-bruegger.jpeg"
 +++
 «Wenn Frauen unter Emanzipation die Übernahme der männlichen Rolle verstehen, dann sind wir in der Tat verloren», sagte Germaine Greer, die bekannte australische Publizistin und Frauenrechtlerin. Doch was steckt wirklich hinter dieser Aussage? Sollten Frauen mehr Rechte als Männer haben? Bedeutet Emanzipation wirklich, dass Frauen die Männer dominieren? Der Begriff selbst bedeutet „eigenständig werden“, doch die Interpretation dieses Wortes ist oft unterschiedlich und kann zu Missverständnissen führen.
 
